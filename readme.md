@@ -58,4 +58,3 @@ Running `mvn clean compile exec:java` requires http://mojo.codehaus.org/exec-mav
 
 Running `java -jar target/my-app-1.0-SNAPSHOT.jar` requires http://maven.apache.org/plugins/maven-shade-plugin/
 
-******
